@@ -1,0 +1,6 @@
+body {
+overflow-x: hidden;/*oculta el slider inferior de la pantalla */
+}
+.adaptabilidad-imgen-alto{  
+    height: 65vh; 
+} 
